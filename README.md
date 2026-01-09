@@ -31,7 +31,6 @@ The dataset contains:
 Built using **Streamlit** for real-time prediction.
 
 ## How to Run the Project
-```bash
 pip install -r requirements.txt
 streamlit run app.py
 
